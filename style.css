@@ -202,6 +202,11 @@ h2 {
   margin: 0 50px;
 }
 
+.new-site {
+  align-items: center;
+  text-align: center;
+}
+
 /*=============== HOME SECTION ===============*/
 
 .home h1 {
